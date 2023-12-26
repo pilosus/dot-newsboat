@@ -1,0 +1,5 @@
+cache.db
+cache.db.lock
+history.search
+history.cmdline
+queue
