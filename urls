@@ -6,6 +6,7 @@ https://jvns.ca/atom.xml prog
 
 # Programming languages
 https://peps.python.org/peps.rss/ "~Python PEP updates" lang python pep
+https://github.com/dabeaz/blog/releases.atom "~David Beazley's Blog" prog python lang
 https://clojure.org/feed.xml "~Clojure News" lang clojure
 
 # Misc
