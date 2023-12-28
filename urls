@@ -9,5 +9,8 @@ https://peps.python.org/peps.rss/ "~Python PEP updates" lang python pep
 https://github.com/dabeaz/blog/releases.atom "~David Beazley's Blog" prog python lang
 https://clojure.org/feed.xml "~Clojure News" lang clojure
 
+# InfoSec
+https://www.ccc.de/de/rss/updates.xml infosec
+
 # Misc
 http://www.aaronsw.com/2002/feeds/pgessays.rss startup
