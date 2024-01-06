@@ -3,6 +3,7 @@ https://luke.hsiao.dev/atom.xml prog
 https://drewdevault.com/blog/index.xml prog floss
 http://blog.fogus.me/feed/ "~Fogus's blog" prog clojure
 https://jvns.ca/atom.xml prog
+https://blog.pilosus.org/feeds/all.atom.xml prog
 
 # Programming languages
 https://peps.python.org/peps.rss/ "~Python PEP updates" lang python pep
